@@ -8,6 +8,7 @@
 
 
 写作及任务管理工作
+http://blog.csdn.net/mduanfire/article/details/50278591
 https://site.douban.com/196781/widget/notes/12161495/note/264946576/
 把单位、家里、外面的工作链接起来
 任务管理
@@ -15,3 +16,5 @@ https://site.douban.com/196781/widget/notes/12161495/note/264946576/
 孩子的博客
 生成历史树
 MacDown git
+方法论
+思想－》要做－》行为－结果
