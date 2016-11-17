@@ -11,7 +11,8 @@
 atom
 http://blog.csdn.net/mduanfire/article/details/50278591
 
-翻墙https://site.douban.com/196781/widget/notes/12161495/note/264946576/
+翻墙
+https://site.douban.com/196781/widget/notes/12161495/note/264946576/
 
 blog
 写作环境搭建(git+github+markdown+jekyll)
@@ -25,3 +26,4 @@ https://site.douban.com/196781/widget/notes/12161495/note/264946576/
 MacDown git
 方法论
 思想－》要做－》行为－结果
+建立一个简书格式程序，输出简书？
