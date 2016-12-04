@@ -1,4 +1,8 @@
 # [我的思想](http://www.jianshu.com)
+<<<<<<< HEAD
+=======
+重要的事情
+>>>>>>> efd91384ff469feba8c82c3d7467f4ea3287fa8f
 ##mud
 ###瑜伽
 ####练习瑜伽
@@ -21,12 +25,15 @@
 
 利用科学上网 wiki  知乎等解决角膜镜等生活问题
 
-
+楼上西式厨房
 写作及任务管理工作
 atom
 http://blog.csdn.net/mduanfire/article/details/50278591
 
-翻墙https://site.douban.com/196781/widget/notes/12161495/note/264946576/
+翻墙
+https://site.douban.com/196781/widget/notes/12161495/note/264946576/
+
+楼上西式厨房
 
 blog
 写作环境搭建(git+github+markdown+jekyll)
@@ -40,3 +47,4 @@ https://site.douban.com/196781/widget/notes/12161495/note/264946576/
 MacDown git
 方法论
 思想－》要做－》行为－结果
+建立一个简书格式程序，输出简书？
